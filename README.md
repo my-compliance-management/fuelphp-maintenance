@@ -1,4 +1,4 @@
-# fuelphp-maintenance
+# fuelphp-maintenance (mycm-specific)
 add maintenance mode to FuelPHP.  
 this is FuelPHP package. if you want to use, please use as package.  
 How to install : http://fuelphp.com/docs/general/packages.html#/installing
